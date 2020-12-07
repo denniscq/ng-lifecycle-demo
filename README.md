@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
-![capture](./capture.jpg)
+![capture](capture.jpg)
 
 ### OnChanges 与 DoCheck
 * OnChanges => 检测数据变更, 同步渲染到template.
